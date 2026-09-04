@@ -19,8 +19,11 @@ print("use of count for p ")
 print(a.count("p"))
 
 print("str concatination")
-print(a +"_______________"+a )
 
+print(a +"_______________"+a )
+b=" better "
+c="than HP"
+print(a+b+c)
 print ("str repetation")
 print(a*2)
 
